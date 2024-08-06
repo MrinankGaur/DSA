@@ -1,6 +1,6 @@
 package conditions_and_loops;
 import java.util.Scanner;
-public class DigitOccurences {
+public class DigitOccurrences {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int x = sc.nextInt();
