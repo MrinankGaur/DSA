@@ -1,4 +1,4 @@
-package FucntionsMethods;
+package FunctionsMethods;
 import java.util.Scanner;
 public class PrimeCheck {
     public static void main(String[] args) {

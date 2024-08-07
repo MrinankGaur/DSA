@@ -1,4 +1,4 @@
-package FucntionsMethods;
+package FunctionsMethods;
 import java.util.*;
 public class Sumof2Numbers {
     public static void main(String[] args) {
